@@ -1,4 +1,4 @@
-form {
+terraform {
   backend "remote" {
     hostname     = "app.terraform.io"
     organization = "s_saito_org"
